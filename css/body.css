@@ -1,0 +1,116 @@
+/* 
+    Document   : body
+    Created on : Aug 26, 2012, 10:16:36 PM
+    Author     : shanto
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.body{
+	width:100%;
+    clear: #e3e3e3;
+    height: 100%;
+    font-size:14px;
+	color : #555;
+	margin-top:-5px;
+	margin-left:auto;
+	margin-right:auto;	
+	background: transparent;
+}
+#log{
+	height:100px;
+	width:200px;
+	margin-left:auto;
+	margin-right:auto;	
+	font-weight:bold;
+	font-size:12px;
+	color:skyblue;
+}
+#log input{
+	margin:5px;
+}
+#fg_membersite input{
+	margin:0px;
+}
+#contBodyL{
+	float:left;
+	height:100%;
+	width:32%;
+	border-right:2px solid transparent;
+	border-top:2px solid transparent;
+	border-left:6px solid transparent;
+	margin-left:2px;
+}
+#contBodyR{
+	float:left;
+	height:100%;
+	width:32%;
+	border:2px solid transparent;
+	margin-right:2px;
+}
+#contBodyM{
+	float:left;
+	height:100%;
+	width:33%;
+	border:2px solid transparent;
+	margin-right:2px;
+	margin-left:2px;
+}
+#contBodyMain{
+	text-align:left;
+	float:left;
+	width:100%;
+	height:278px;
+	margin-bottom:0px;
+	margin-top:0px;
+	background:none;
+}
+p{
+	margin-top:5px;
+	font-weight:bold;
+	color:gray;
+	font-size:11px;
+}
+p a{
+	text-decoration:none;
+	color:gray;
+}
+#exam{
+	height:50px;
+	width:100%;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+	background:none;
+	font-size:15px;
+	color:green;
+	font-weight:bold;
+	text-align:center;
+}
+#que{
+	height:300px;
+	width:600px;
+	background: url(../img/grids.gif) repeat;
+	font-size:14px;
+	color:gray;
+	font-weight:bold;
+	text-align:left;
+	margin-left:20px;
+}
+#que #p {
+	margin-top:-20px;
+	margin-bottom:0px;
+}
+#cel{
+	height:30px;
+	width:100%;
+	background: none;
+}
+fieldset a{
+	text-decoration:none;
+	color:#0B3861;
+	font-size:11px;
+	font-weight:bold;
+}
+legend {
+	text-decoration:border;
+}

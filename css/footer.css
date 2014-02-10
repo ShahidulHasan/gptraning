@@ -1,0 +1,44 @@
+/* 
+    Document   : footer
+    Created on : Aug 26, 2012, 10:16:22 PM
+    Author     : shanto
+    Description:
+    Purpose of the stylesheet follows.
+*/
+.bg-f{
+	float:right;
+    width: 100%;
+	background: white url(../img/bg.gif) repeat-x;
+}
+.footer{
+	width:100%;
+    clear: #e3e3e3;
+    height: 60px;
+    text-align:center;
+    padding:0px;
+    font-size:11px;
+	font-weight:bold;
+	color:skyblue;
+}
+.footer ul li{
+	display:inline;
+    height: 5px;
+	
+}
+.footer a{
+	color:skyblue;
+	text-decoration:none;
+	padding:5px;	
+}
+
+.footer a:hover{
+	color:white;
+	text-shadow: 0px 0px 1px white;
+	cursor: pointer;
+}
+.footer p{
+        color:#cccccc;
+        font-size:11px;
+        margin-top: 5px;
+}
+

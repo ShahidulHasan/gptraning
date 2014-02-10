@@ -1,0 +1,12 @@
+<?php
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+        $dbase=array('host'=>'localhost',   //  server name
+        'username'=>'root',                 //  user name
+        'password'=>'',                     //  password
+        'database'=>'gpit_training');         //  database name
+
+?>
